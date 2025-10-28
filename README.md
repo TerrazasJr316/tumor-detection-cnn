@@ -32,7 +32,7 @@
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/TerrazasJr316/email-detector.git
+git clone https://github.com/TerrazasJr316/tumor-detection-cnn.git
 cd linear-forecasting
 ```
 
