@@ -100,30 +100,30 @@ rclone config
 n # new remote disk
 # name> define a name for your virtual disk step:2
 name_mount_disk
-# Storage> ... Choose a number from below, or type in your own value.
+# Storage> ... Choose a number from below, or type in your own value. step:3
 # in my case i go to work with drive
 22 # or
 drive
-# ... client_id> press enter
-# ... client_secret> press enter
+# ... client_id> press enter step:4
+# ... client_secret> press enter step:5
 
-# scope> ... Choose a number from below, or type in your own value.
+# scope> ... Choose a number from below, or type in your own value. step:6
 1 # to gain full read and write permissions
 
 # root_folder_id> Leave blank normally.
-# service_account_file> press enter
+# service_account_file> press enter step:7
 
-# ... Edit advanced config?
-n # not advanced configuration
-# Use web browser to automatically authenticate rclone with remote? ...
+# ... Edit advanced config? step:8
+n # not advanced configuration step:9
+# Use web browser to automatically authenticate rclone with remote? ... step:10
 y # for to config auto
 # Your browser will automatically open to authenticate with Google
 # and allow the required permissions to rclone ...
-# ... Configure this as a Shared Drive (Team Drive)?
+# ... Configure this as a Shared Drive (Team Drive)? step:11
 n # not as a Shared Drive. if you case you want to share press y
-# Configuration complete... Keep this "drive_cnn" remote?
+# Configuration complete... Keep this "drive_cnn" remote? step:12
 y # keep your disk remote
-# ... Finally... Edit existing remote
+# ... Finally... Edit existing remote step:13
 q # to quite
 ```
 
