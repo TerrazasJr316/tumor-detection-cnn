@@ -228,7 +228,7 @@ systemctl start rclone-mount.service
 systemctl status rclone-mount.service
 ```
 
-Check it the `active (running)`. 
+Check it the `active (running)`.
 
 ## ❓ FAQ
 
