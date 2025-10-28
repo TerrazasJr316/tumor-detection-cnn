@@ -142,7 +142,7 @@ rclone mount name_mount_disk: name_directory_path/ --vfs-cache-mode writes & # n
 #### 4. dataset path
 
 ```bash
-/home/username/
+/home/username/name_directory_path 
 ```
 
 Remplace `username` for your real user
