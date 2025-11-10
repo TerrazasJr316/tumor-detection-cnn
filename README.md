@@ -62,6 +62,7 @@ conda install conda-forge::seaborn
 conda install conda-forge::scikit-image
 conda install conda-forge::tensorflow
 conda install conda-forge::opencv
+conda install plotly::plotly
 # pip
 pip install numpy
 pip install pandas
@@ -70,7 +71,8 @@ pip install scikit-learn
 pip install seaborn
 pip install tensorflow
 pip install scikit-image
-pip install opencv
+pip install opencv-python
+pip install plotly
 ```
 
 ### 4. Set the dataset path & Hybrid Mount Disk
